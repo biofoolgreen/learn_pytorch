@@ -1,9 +1,9 @@
 '''
 @Description: 数据集准备。将CIFAR10数据集转化为图片分类别存储到本地文件夹
 @Version: 
-@Author: liguoying@iiotos.com
+@Author: biofool2@gmail.com
 @Date: 2018-12-20 16:43:05
-@LastEditTime: 2018-12-20 17:19:34
+@LastEditTime: 2018-12-20 17:21:57
 @LastEditors: Please set LastEditors
 '''
 
